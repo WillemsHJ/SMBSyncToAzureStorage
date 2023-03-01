@@ -1,0 +1,5 @@
+C:\projecten\SMBSyncToAzureStorage\App\bin\Release\net7.0\publish\SMBSyncToAzureStorage.exe
+C:\projecten\SMBSyncToAzureStorage\App\bin\Release\net7.0\publish\SMBSyncToAzureStorage.dll
+C:\projecten\SMBSyncToAzureStorage\App\bin\Release\net7.0\publish\SMBSyncToAzureStorage.deps.json
+C:\projecten\SMBSyncToAzureStorage\App\bin\Release\net7.0\publish\SMBSyncToAzureStorage.runtimeconfig.json
+C:\projecten\SMBSyncToAzureStorage\App\bin\Release\net7.0\publish\SMBSyncToAzureStorage.pdb

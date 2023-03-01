@@ -1,0 +1,15 @@
+C:\projecten\SMBSyncToAzureStorage\App\bin\Debug\net7.0\SMBSyncToAzureStorage.exe
+C:\projecten\SMBSyncToAzureStorage\App\bin\Debug\net7.0\SMBSyncToAzureStorage.deps.json
+C:\projecten\SMBSyncToAzureStorage\App\bin\Debug\net7.0\SMBSyncToAzureStorage.runtimeconfig.json
+C:\projecten\SMBSyncToAzureStorage\App\bin\Debug\net7.0\SMBSyncToAzureStorage.dll
+C:\projecten\SMBSyncToAzureStorage\App\bin\Debug\net7.0\SMBSyncToAzureStorage.pdb
+C:\projecten\SMBSyncToAzureStorage\App\obj\Debug\net7.0\SMBSyncToAzureStorage.csproj.AssemblyReference.cache
+C:\projecten\SMBSyncToAzureStorage\App\obj\Debug\net7.0\SMBSyncToAzureStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\projecten\SMBSyncToAzureStorage\App\obj\Debug\net7.0\SMBSyncToAzureStorage.AssemblyInfoInputs.cache
+C:\projecten\SMBSyncToAzureStorage\App\obj\Debug\net7.0\SMBSyncToAzureStorage.AssemblyInfo.cs
+C:\projecten\SMBSyncToAzureStorage\App\obj\Debug\net7.0\SMBSyncToAzureStorage.csproj.CoreCompileInputs.cache
+C:\projecten\SMBSyncToAzureStorage\App\obj\Debug\net7.0\SMBSyncToAzureStorage.dll
+C:\projecten\SMBSyncToAzureStorage\App\obj\Debug\net7.0\refint\SMBSyncToAzureStorage.dll
+C:\projecten\SMBSyncToAzureStorage\App\obj\Debug\net7.0\SMBSyncToAzureStorage.pdb
+C:\projecten\SMBSyncToAzureStorage\App\obj\Debug\net7.0\SMBSyncToAzureStorage.genruntimeconfig.cache
+C:\projecten\SMBSyncToAzureStorage\App\obj\Debug\net7.0\ref\SMBSyncToAzureStorage.dll
